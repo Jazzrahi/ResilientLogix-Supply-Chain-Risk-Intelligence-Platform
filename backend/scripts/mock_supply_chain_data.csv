@@ -1,0 +1,101 @@
+shipment_id,vessel_name,weight_kg,origin,destination,sector,priority,current_mode,budget
+a9ed0457,Ever Given,91348,Shanghai,Rotterdam,Humanitarian,normal,Sea,16501
+44fa7655,CMA CGM Marco Polo,101737,Jebel Ali,Rotterdam,Health,high,Sea,44862
+10dba275,MSC Oscar,27291,Singapore,Valencia,Consumer,normal,Sea,38603
+c9d94bfd,MSC Oscar,167858,Shanghai,Hamburg,Humanitarian,normal,Sea,28853
+36be4720,CMA CGM Marco Polo,6313,Singapore,Felixstowe,Health,high,Sea,43241
+9b7d4e91,OOCL Hong Kong,59829,Jebel Ali,Hamburg,Humanitarian,normal,Sea,24644
+6856e298,Ever Given,115195,Jebel Ali,Felixstowe,Humanitarian,normal,Sea,15568
+b9ea2969,Maersk Triple-E,69384,Busan,Felixstowe,Consumer,normal,Sea,31079
+aee1f743,Ever Given,166822,Port Klang,Felixstowe,Health,high,Sea,30733
+3a8d3a3c,CMA CGM Marco Polo,147384,Singapore,Felixstowe,Consumer,normal,Sea,33705
+00e818bf,Ever Given,161350,Port Klang,Rotterdam,Health,high,Sea,35087
+b44c061b,CMA CGM Marco Polo,97150,Singapore,Rotterdam,Energy,high,Sea,19453
+359c8588,OOCL Hong Kong,117022,Jebel Ali,Valencia,Health,high,Sea,42160
+e5c01d1b,OOCL Hong Kong,103404,Shanghai,Felixstowe,Industrial,normal,Sea,20300
+fb0e344e,MSC Oscar,165678,Shanghai,Felixstowe,Energy,high,Sea,16735
+3258a09e,CMA CGM Marco Polo,50960,Port Klang,Valencia,Industrial,normal,Sea,40544
+ccf9ae14,OOCL Hong Kong,164149,Singapore,Rotterdam,Consumer,normal,Sea,43809
+9d0ea964,Ever Given,77364,Singapore,Hamburg,Health,high,Sea,30259
+fe55d75c,CMA CGM Marco Polo,168209,Busan,Valencia,Energy,high,Sea,48531
+4cbb45f6,OOCL Hong Kong,9102,Busan,Valencia,Humanitarian,normal,Sea,39097
+6ff5ae84,CMA CGM Marco Polo,161034,Jebel Ali,Valencia,Humanitarian,normal,Sea,30020
+9117614e,Maersk Triple-E,58174,Singapore,Antwerp,Humanitarian,normal,Sea,19828
+67583a2a,OOCL Hong Kong,163442,Port Klang,Antwerp,Energy,high,Sea,22799
+059eb5df,OOCL Hong Kong,153585,Port Klang,Valencia,Energy,high,Sea,15722
+1825c01e,CMA CGM Marco Polo,96998,Shanghai,Antwerp,Humanitarian,normal,Sea,22922
+6ab6a38e,MSC Oscar,65158,Jebel Ali,Rotterdam,Consumer,normal,Sea,11044
+4d20674c,Ever Given,113316,Busan,Rotterdam,Industrial,normal,Sea,14779
+2888dc29,MSC Oscar,85171,Jebel Ali,Rotterdam,Humanitarian,normal,Sea,42731
+803c46bb,CMA CGM Marco Polo,106307,Jebel Ali,Valencia,Consumer,normal,Sea,26317
+36262376,CMA CGM Marco Polo,97640,Shanghai,Rotterdam,Humanitarian,normal,Sea,22334
+144088d7,CMA CGM Marco Polo,78920,Jebel Ali,Antwerp,Consumer,normal,Sea,17737
+301133f8,CMA CGM Marco Polo,63966,Shanghai,Antwerp,Energy,high,Sea,43147
+6f284d47,Maersk Triple-E,53342,Shanghai,Hamburg,Health,high,Sea,11018
+b1909b07,MSC Oscar,117742,Shanghai,Antwerp,Consumer,normal,Sea,25090
+0352d322,CMA CGM Marco Polo,160855,Port Klang,Hamburg,Consumer,normal,Sea,47625
+96200c5a,Maersk Triple-E,60486,Jebel Ali,Valencia,Consumer,normal,Sea,12251
+4041de08,Ever Given,137884,Busan,Rotterdam,Industrial,normal,Sea,38967
+e0c5fec1,Maersk Triple-E,199553,Singapore,Hamburg,Humanitarian,normal,Sea,34875
+7a3fcd92,MSC Oscar,138126,Jebel Ali,Antwerp,Energy,high,Sea,41253
+eeb9d923,MSC Oscar,162778,Singapore,Hamburg,Industrial,normal,Sea,45344
+8c3b6cb4,Maersk Triple-E,138587,Singapore,Valencia,Energy,high,Sea,32161
+8aece321,MSC Oscar,19636,Port Klang,Valencia,Consumer,normal,Sea,47705
+a9aa081a,MSC Oscar,168173,Jebel Ali,Antwerp,Energy,high,Sea,42264
+d05b4f05,MSC Oscar,39072,Shanghai,Rotterdam,Industrial,normal,Sea,33276
+e353a032,MSC Oscar,150640,Shanghai,Antwerp,Energy,high,Sea,11493
+376a2bec,OOCL Hong Kong,29312,Jebel Ali,Rotterdam,Energy,high,Sea,22647
+0771e670,Maersk Triple-E,82795,Shanghai,Rotterdam,Humanitarian,normal,Sea,25395
+91938793,Ever Given,35521,Port Klang,Rotterdam,Health,high,Sea,21730
+24a5dd37,OOCL Hong Kong,110469,Shanghai,Antwerp,Humanitarian,normal,Sea,26460
+b1970a2e,Maersk Triple-E,187916,Singapore,Hamburg,Consumer,normal,Sea,33207
+f04b85dc,CMA CGM Marco Polo,138320,Jebel Ali,Valencia,Health,high,Sea,31293
+e25ecc7c,CMA CGM Marco Polo,53968,Singapore,Felixstowe,Consumer,normal,Sea,45738
+09e2e30a,OOCL Hong Kong,39568,Jebel Ali,Valencia,Humanitarian,normal,Sea,44189
+a9cd9e7c,OOCL Hong Kong,145778,Shanghai,Valencia,Consumer,normal,Sea,41800
+7a30c7f9,Maersk Triple-E,104238,Port Klang,Antwerp,Industrial,normal,Sea,46091
+781b4bbe,MSC Oscar,73549,Port Klang,Antwerp,Energy,high,Sea,28369
+e8a98f7b,MSC Oscar,58310,Jebel Ali,Hamburg,Consumer,normal,Sea,37592
+541aed8a,CMA CGM Marco Polo,100302,Jebel Ali,Antwerp,Consumer,normal,Sea,35094
+95ea948f,MSC Oscar,90564,Busan,Valencia,Health,high,Sea,32732
+6a69f6ea,OOCL Hong Kong,129323,Shanghai,Hamburg,Health,high,Sea,47613
+397bc6e2,CMA CGM Marco Polo,194645,Shanghai,Valencia,Health,high,Sea,15137
+41e6693d,Ever Given,18071,Busan,Hamburg,Industrial,normal,Sea,12897
+23f98fdb,Maersk Triple-E,128233,Singapore,Antwerp,Energy,high,Sea,32279
+9c6734da,CMA CGM Marco Polo,24668,Singapore,Rotterdam,Industrial,normal,Sea,42438
+385aa245,CMA CGM Marco Polo,126015,Busan,Antwerp,Consumer,normal,Sea,28452
+7b87647b,CMA CGM Marco Polo,186828,Singapore,Rotterdam,Health,high,Sea,18442
+66934628,Maersk Triple-E,119814,Jebel Ali,Hamburg,Energy,high,Sea,12684
+af8669b8,CMA CGM Marco Polo,176698,Busan,Hamburg,Health,high,Sea,27362
+a14e331f,Ever Given,115009,Singapore,Valencia,Humanitarian,normal,Sea,38283
+c90f9410,Ever Given,154528,Busan,Rotterdam,Energy,high,Sea,17074
+3e331ab8,Ever Given,24785,Port Klang,Hamburg,Consumer,normal,Sea,16748
+03f778a6,Maersk Triple-E,35317,Port Klang,Rotterdam,Energy,high,Sea,43928
+0ed052e3,Ever Given,77487,Port Klang,Antwerp,Energy,high,Sea,43821
+aa2083e7,MSC Oscar,176690,Port Klang,Rotterdam,Energy,high,Sea,44881
+2dda6071,CMA CGM Marco Polo,122306,Shanghai,Valencia,Humanitarian,normal,Sea,16936
+dbf9d85b,CMA CGM Marco Polo,121930,Singapore,Hamburg,Humanitarian,normal,Sea,41292
+aa237e22,Maersk Triple-E,148451,Busan,Valencia,Industrial,normal,Sea,34712
+43c0bfe5,Maersk Triple-E,10655,Busan,Rotterdam,Humanitarian,normal,Sea,29840
+7855ffdd,MSC Oscar,50764,Shanghai,Felixstowe,Health,high,Sea,11457
+fd3f6e58,CMA CGM Marco Polo,96679,Shanghai,Hamburg,Humanitarian,normal,Sea,27640
+dc3640d1,Maersk Triple-E,19552,Singapore,Antwerp,Humanitarian,normal,Sea,42560
+d39973fe,Maersk Triple-E,189525,Jebel Ali,Antwerp,Humanitarian,normal,Sea,13047
+26614b3e,OOCL Hong Kong,135104,Port Klang,Felixstowe,Humanitarian,normal,Sea,47864
+c6ea801f,MSC Oscar,47797,Port Klang,Hamburg,Health,high,Sea,25899
+a59b0728,Maersk Triple-E,183714,Busan,Rotterdam,Health,high,Sea,10985
+56e654b0,Ever Given,147092,Shanghai,Felixstowe,Energy,high,Sea,32351
+0a9f8ecf,OOCL Hong Kong,139325,Singapore,Antwerp,Energy,high,Sea,30277
+349b0dab,OOCL Hong Kong,147555,Busan,Antwerp,Humanitarian,normal,Sea,10035
+7ef0bcbe,MSC Oscar,178673,Port Klang,Hamburg,Consumer,normal,Sea,21161
+0f4f1a28,OOCL Hong Kong,180031,Shanghai,Hamburg,Consumer,normal,Sea,20488
+c6065a00,MSC Oscar,119968,Singapore,Felixstowe,Health,high,Sea,44194
+b6929852,Maersk Triple-E,10644,Shanghai,Rotterdam,Humanitarian,normal,Sea,40307
+61b4e544,CMA CGM Marco Polo,47875,Port Klang,Valencia,Consumer,normal,Sea,28032
+a7c21561,Ever Given,159803,Singapore,Felixstowe,Consumer,normal,Sea,47499
+bd365b15,OOCL Hong Kong,72136,Shanghai,Felixstowe,Health,high,Sea,23254
+59438673,MSC Oscar,168090,Singapore,Rotterdam,Consumer,normal,Sea,37241
+1053bb3e,OOCL Hong Kong,150631,Busan,Antwerp,Health,high,Sea,25617
+420c7578,MSC Oscar,30178,Singapore,Antwerp,Health,high,Sea,19128
+ffdafc35,CMA CGM Marco Polo,30828,Busan,Hamburg,Health,high,Sea,37365
+574068e0,Maersk Triple-E,130344,Port Klang,Rotterdam,Humanitarian,normal,Sea,18427

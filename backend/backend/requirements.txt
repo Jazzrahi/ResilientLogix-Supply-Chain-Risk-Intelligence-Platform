@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+pydantic
+websockets
+httpx
+scikit-learn
+networkx
+pandas
+numpy
+geopy

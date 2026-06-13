@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-deep: #020408;
+  --bg-surface: rgba(10, 15, 30, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --accent-cyan: #00F2FF;
+  --accent-red: #FF3131;
+  --accent-amber: #FFB800;
+  --accent-green: #00FF94;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at center, #0B1222 0%, #020408 100%);
+  color: #e2e8f0;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* Premium Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+  background: var(--bg-surface);
+  backdrop-filter: blur(12px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Bloom & Glow */
+.glow-cyan { text-shadow: 0 0 10px rgba(0, 242, 255, 0.5); }
+.glow-red { text-shadow: 0 0 10px rgba(255, 49, 49, 0.5); }
+.glow-amber { text-shadow: 0 0 10px rgba(255, 184, 0, 0.5); }
+
+.border-glow-cyan { box-shadow: inset 0 0 15px rgba(0, 242, 255, 0.1), 0 0 15px rgba(0, 242, 255, 0.1); }
+.border-glow-red { box-shadow: inset 0 0 15px rgba(255, 49, 49, 0.1), 0 0 15px rgba(255, 49, 49, 0.1); }
+
+/* Animations */
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 3s infinite ease-in-out;
+}
+
+@keyframes scanline {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100%); }
+}
+
+.scanline::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(to right, transparent, rgba(255,255,255,0.1), transparent);
+  animation: scanline 8s infinite linear;
+}
+
+/* Map Popups Overrides */
+.leaflet-popup-content-wrapper {
+  background: rgba(10, 15, 30, 0.9) !important;
+  color: white !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+.leaflet-popup-tip {
+  background: rgba(10, 15, 30, 0.9) !important;
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "shipment_id": "3193",
+        "vessel_id": "V-1011",
+        "vessel": "CMA CGM Marco Polo",
+        "suggestion": "AUTHORIZE MODE SWITCH",
+        "reason": "Regional Cyclone",
+        "cost_delta": 24859,
+        "time_saved": "56h"
+    }
+]
